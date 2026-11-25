@@ -66,7 +66,7 @@
 
 Actionbook provides an AI‑powered coworker that runs in your browser, aggregating data from web sources and connected apps into a unified dashboard. It offers automation tools, quick‑start guides, and integrations to help teams streamline research, prospecting, and social auditing, delivering actionable insights without manual browsing.
 
-**Areas:** AI · Automation · Productivity · Browser · Dashboard
+**Areas:** Artificial Intelligence · Automation · Productivity · Browser · Dashboards
 
 ## Actionbook on APIs.io
 
@@ -84,14 +84,14 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Actionbook App Authentication](https://apis.io/security/actionbook-app/actionbook-app-authentication/)
-- [Actionbook App Domain Security](https://apis.io/security/actionbook-app/actionbook-app-domain-security/)
+- [Actionbook Authentication](https://apis.io/security/actionbook-app/actionbook-app-authentication/)
+- [Actionbook Domain Security](https://apis.io/security/actionbook-app/actionbook-app-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Actionbook App Plans Pricing](https://apis.io/plans/actionbook-app/actionbook-app-plans-pricing/)
+- [Actionbook Plans Pricing](https://apis.io/plans/actionbook-app/actionbook-app-plans-pricing/)
 
 ## Where to find this API
 
@@ -111,18 +111,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 33.7** — thin · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 34.9** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
+| Discoverability | 75.0 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 5.3 |
+| Operational transparency | 4.8 |
 | Developer ergonomics | 61.2 |
-| Access clarity | 73.2 |
+| Access clarity | 74.5 |
 
-**Agent readiness 11.7** — agent-aware
+**Agent readiness 12.5** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -138,7 +138,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Event Surface Described | — |
 | Agent Skills | unknown |
 | Well Known Catalog | yes |
-| Consent Identity | — |
+| Consent Identity | signal |
 | Agent Card | — |
 | Dry Run Mode | — |
 | Delegated Identity | — |
@@ -147,8 +147,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 18.2** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/actionbook-app/](https://apis.io/providers/actionbook-app/).
 
